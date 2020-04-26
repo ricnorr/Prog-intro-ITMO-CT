@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28d444af-98fe-43b0-878e-767ae7d0a107" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTMLconverter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../englishhhh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Md2Html.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Md2Html.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Md2HtmlTest.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Md2HtmlUnderline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Md2HtmlUnderlineTest.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkWithMarkup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkWithMarkupOnSets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkWithMarkupOnSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finally.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Новый текстовый документ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../markup/markup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ticToe/out/production/ticToe/ticTacToe/HumanPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ticToe/src/ticTacToe/ticTacToe.rar" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1U6ksq31NxUwLRJO9uqKanJJer5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d444af-98fe-43b0-878e-767ae7d0a107" name="Default Changelist" comment="" />
+      <created>1574684641110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574684641110</updated>
+      <workItem from="1574684642664" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

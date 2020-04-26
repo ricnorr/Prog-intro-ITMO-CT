@@ -1,0 +1,40 @@
+import java.util.*;
+import java.io.IOException;
+
+public class ReverseTranspose1 {
+
+    public static void outMatr(List<List<Integer>> buf) {
+        for (MyArr line: buf) {
+            for (int i = 0; i < line.size(); i++) {
+				System.out.print(line.get(i));
+				System.out.print(" ");
+			}
+            System.out.println();
+        }
+    }
+
+    public static void main(String[] args) {
+        try {
+            MyScanner scan = new MyScanner(System.in);
+            try {
+                List<MyArr> buf = new ArrayList<>();
+                while (scan.hasNextLine()) {
+                    scan.readLine();
+                    int howManyInLine = 0;
+                    while (scan.hasNextInLine()) {
+                        if (howManyInLine >= buf.size()) {
+                            buf.add(new MyArr());
+                        }
+                        int x = scan.readIntegerInLine();
+                        buf.get(howManyInLine++).add(x);
+                    }
+                }
+                outMatr(buf);
+            } finally {
+                scan.close();
+            }
+        } catch (IOException e) {
+            System.out.println("Problems with" + " System.in" + e.getMessage());
+        }
+    }
+}
